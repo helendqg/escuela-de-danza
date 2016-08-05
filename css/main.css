@@ -1,0 +1,73 @@
+*{
+	box-sizing: border-box;
+	margin:0;
+	padding:0;
+}
+.portada{
+	background:url(../img/dance_1.jpg);
+	height:490px;
+}
+.studio{
+	color:#C3C6C5;
+	padding:10px;
+	display:inline-block;
+	margin-left:8%;
+	margin-top:6%;
+}
+.h2{
+	font-size:60px;
+	margin:0;
+}
+.boton{
+	color:#fff;
+	text-align:center;
+	background-color:#040D1D;
+	margin-top:20px;
+	padding:10px 20px;
+}
+.grid{
+	background:url(../img/textura_2.jpg);
+	height:400px;
+	text-align:center;
+}
+.frace{
+	font-size:30px;
+	text-align:center;
+}
+.img{
+	width:10%;
+	height:30%;
+	margin-left:12%;
+}
+.click{
+	color:#fff;
+	background-color:#040D1D;
+	border-radius:5px;
+	padding:10px 20px;
+	display:inline-block;
+	margin-right:-20px;
+}
+.bloque{
+	background:url(../img/textura_2.jpg);
+	height:400px;
+}
+.profesores{
+	border:1px solid #192951;
+	width:50%;
+}
+footer{
+	height:20%;
+	background-color:#192951;
+	color:white;
+}
+p{
+padding: 15px 0 5px;
+margin-left:2%;
+}
+.zapatos{
+	background-image:url(../img/shoes_!.jpg);
+	background-repeat:no-repeat;
+	background-size:55%;
+	background-position:87% 0;
+	height:520px;
+}

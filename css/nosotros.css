@@ -1,0 +1,62 @@
+.grupo{
+	background-image:url(../img/dance_7.jpg);
+	background-repeat:no-repeat;
+	background-size:130%;
+	background-position: 0 50%;
+	height:500px;
+}
+.nosotros{
+	width:26%;
+	height:47%;
+	text-align:center;
+	padding:15px 20px;
+	display:inline-block;
+	margin-left:36%;
+	margin-top:10%;
+	background-color:black;
+  	color:#fff;
+  	opacity: 0.5;
+}
+.sobre{
+	font-size:30px;
+	padding:3%;
+}
+.cuadros{
+	background-image:url(../img/cubes.png); 
+}
+.bloque{
+	text-align:center;
+}
+.pilar{
+	font-size:30px;
+	color:#A4A4A4;
+	padding:15px;
+}
+.raya{
+	width:60%;
+	border:#A4A4A4 solid 1px;
+	margin:15px;
+}
+p{
+	margin:15px;
+}
+.instructores{
+	font-size:30px;
+	padding:2% 40%;
+}
+.caja{
+		text-align:center;
+}
+.img{
+	height:200px;
+	overflow:hidden;
+	margin:4px;
+}
+.fondofrace{
+	background-image:url(../img/cubes.png);
+	height:250px;
+}
+.frace{
+	padding:8% 35%;
+	font-size:30px;
+}

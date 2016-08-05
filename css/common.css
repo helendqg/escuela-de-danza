@@ -1,0 +1,15 @@
+/*inicio de pagina y final de pagina*/
+h1{
+	text-align:center;
+	color:#192951;
+	padding:20px;
+}
+nav{
+	text-align:center;
+	margin:0 0 20px;
+}
+a{
+	text-decoration:none;
+	color:#192951;
+	margin:30px;
+}
